@@ -1,8 +1,11 @@
 # 💫 About Me:
 Hi, I'm Tarek Abdullah Miraj 👋
+
 🎓 Computer Science student at Southeast University, Dhaka
+
 💻 Interested in web development & AI
 🚀 Always learning
+
 I’m a competitive programmer with a passion for problem-solving and logical thinking.<br><br>Currently, I’m also learning web development to expand my technical capabilities.<br><br>I’m always eager to learn, grow, and take on new challenges in both programming and development. Open to networking, mentorship, and collaboration opportunities.
 
 
