@@ -16,6 +16,5 @@ Fresh Graduate Looking for Intern/Job
 ![](https://github-contributor-stats.vercel.app/api?username=MirajMalik&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://komarev.com/ghpvc/?username=MirajMalik&icon=5&color=5)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
