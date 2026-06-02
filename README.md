@@ -1,5 +1,9 @@
 # 💫 About Me:
-Fresh Graduate Looking for Intern/Job
+I am a final-semester Computer Science and Engineering student with a strong passion for full-stack web development and software engineering. I have hands-on experience building responsive and user-friendly web applications using HTML, CSS, JavaScript, PHP, MySQL, React, Nodejs and modern web technologies.
+
+In addition to web development, I have solved 500+ Data Structures and Algorithms problems, which has strengthened my analytical thinking and problem-solving skills. I am continuously expanding my knowledge in modern frameworks, cloud technologies and software development best practices.
+
+I am eager to contribute to innovative projects, collaborate with talented teams and grow as a software developer while delivering impactful solutions that create real value.
 
 
 # 💻 Tech Stack:
